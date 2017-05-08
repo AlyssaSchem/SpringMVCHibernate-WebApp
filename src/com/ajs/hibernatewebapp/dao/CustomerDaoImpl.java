@@ -20,7 +20,6 @@ public class CustomerDaoImpl implements CustomerDao {
 	
 	
 	@Override
-	@Transactional 
 	public List<Customer> getCustomers() {
 		
 		Session currentSession = sessionFactory.getCurrentSession();

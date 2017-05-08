@@ -3,7 +3,7 @@
   <display-name>spring-mvc</display-name>
 
   <welcome-file-list>
-    <welcome-file>/jsp/index.jsp</welcome-file>
+    <welcome-file>/view/index.jsp</welcome-file>
     <welcome-file>index.html</welcome-file>
   </welcome-file-list>
   <servlet>
